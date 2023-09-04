@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.left-column, .right-column {
+  flex: 1; /* Flexbox: take up remaining space */
+  background-color: grey;
+  min-height: 100vh;
+}
+
+.middle-column {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+/* Optional: centering content in the A4-like column */
+.middle-column h1,
+.middle-column p {
+  margin: 20px;
+  text-align: center;
+}

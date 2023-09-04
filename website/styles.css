@@ -1,0 +1,47 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+.paper {
+  margin: 1em auto;
+  max-width: 800px;
+  padding: 2em;
+  background-color: #fff;
+  /* Remove the border definitions */
+}
+
+.abstract {
+  background-color: #f2f2f2;
+  padding: 1em;
+  margin: 1em 0;
+  /* Remove the border definitions */
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+.authors {
+  font-style: italic;
+  text-align: center;
+}
+
+.authors p {
+  margin: 0;
+}
+
+.authors a {
+  text-decoration: none;
+}
+
+.content {
+  padding: 1em;
+}
