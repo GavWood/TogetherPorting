@@ -58,3 +58,11 @@ header h1 {
 .content {
   padding: 1em;
 }
+
+
+figcaption {
+    font-size: 0.9em;
+    margin-top: 0.5em;
+    color: black;
+    text-align: center;  /* Centers the caption text */
+}
