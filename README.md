@@ -1,10 +1,10 @@
 # TogetherPorting
 
-This is the repos for togetherporting.com. We created this website to give interested people details about our work at Interact 2023.
+This is the repos that contains HTML and CSS for https://togetherporting.com. We created the website to give people details about our work at Interact 2023.
 
 https://link.springer.com/chapter/10.1007/978-3-031-42293-5_28
 
-This is a website for our prototype that redefines how you teleport in virtual reality. The paper discusses three different techniques outlined below.
+The website and related paper discus three different techniques outlined below.
 
 ![image](https://github.com/GavWood/TogetherPorting/assets/17795588/39d4e211-585f-4432-81c7-48bd027cf537)
 
