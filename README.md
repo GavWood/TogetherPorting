@@ -2,7 +2,7 @@
 
 This is the repos for togetherporting.com. We created this website to give interested people details about our work at Interact 2023.
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tVR6WikAAAAJ&sortby=pubdate&citation_for_view=tVR6WikAAAAJ:vV6vV6tmYwMC
+https://link.springer.com/chapter/10.1007/978-3-031-42293-5_28
 
 This is a website for our prototype that redefines how you teleport in virtual reality. The paper discusses three different techniques outlined below.
 
