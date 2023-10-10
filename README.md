@@ -14,6 +14,6 @@ Figure 1. A user selecting a target group.
 
 Figure 2. Bringing another user to your position.
 
-![image](https://github.com/GavWood/TogetherPorting/assets/17795588/2b837671-7d5a-46ce-aa47-34ab303e5a66)
+![image](https://github.com/GavWood/TogetherPorting/assets/17795588/59310f8d-bdc1-42a4-8b51-3c21742a2700)
 
 Figure 3. Teleporting with another user.
